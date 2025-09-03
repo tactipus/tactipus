@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+  
+  ### **About Me**
+  Technical writer who likes to pester people about bash boxes & vague wordage.
+  
+  I can also speak Spanish, French, & Portuguese.
 
-<!--
-**tactipus/tactipus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+  ### **Contact**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Feel free to contact me on any of the following
+  <div>
+    
+   **Discord:** @la_zorra_negra
+   
+  </div>
